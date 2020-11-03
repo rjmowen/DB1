@@ -1,0 +1,13 @@
+{
+  "operation": "Create",
+  "type": "regular",
+  "enabled": true,
+  "closed": false,
+  "scripts": [
+    {
+      "name": "create_view_retired_jobs.sql",
+      "tags": []
+    },
+  ],
+  "tags": []
+}
