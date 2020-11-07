@@ -1,1 +1,1 @@
-Create view v_Continents AS SELECT ContinentID, ContinentName FROM Continents;
+Select * from view v_Continents;
