@@ -1,0 +1,13 @@
+{
+  "operation": "Create",
+  "type": "regular",
+  "enabled": true,
+  "closed": false,
+  "scripts": [
+    {
+      "name": "Create_index.sql",
+      "tags": []
+    }
+    ],
+  "tags": []
+}
